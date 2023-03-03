@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 -----------------------------------
 
-我是jeremyke，拥抱开源，创造价值，致力于突破技术壁垒，提高产品价值。
+我是jeremyke，拥抱开源，创造价值，致力于攻克技术壁垒，优化产品体验。
 
-### Contact me:
+#### Contact me:
 
 - Email: jeremyke07@gmail.com
 - Wechat: Maxwellke07
