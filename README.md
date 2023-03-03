@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 我是jeremyke，拥抱开源，创造价值，致力于突破技术壁垒，提高产品价值。
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeremyke)](https://github.com/anuraghazra/github-readme-stats)
